@@ -1,0 +1,10 @@
+.heading{
+    font-family: 'Roboto', sans-serif;
+    background-color: #E4E9FD;
+    background-image: -webkit-linear-gradient(100deg, #83e393 50%, #E4E9FD 50%);
+    min-height: 1000px;
+    text-align: center;
+    font-size: xx-large;
+    margin-top: 180px;
+  
+}
